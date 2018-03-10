@@ -72,7 +72,7 @@ char* drumNames[]={
   "Tabula              ",
   "Tympani             ",
   "Gong                ",
-  "Finger Snap         ",
+  "Tambourine          ",
   "Handclap            ",
   "Maraca              ",
   "Wipeout             "
